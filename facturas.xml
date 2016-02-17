@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultado>
+  <totalCount>70973</totalCount>
+  <start>0</start>
+  <rows>50</rows>
+  <result>
+    <factura>
+      <id>100142</id>
+      <title>MATERIAL DE FERRETERÍA INDUSTRIAL PARA REPARACIONES EN INSTALACIONES DE PLANTA POTABILIZADORA</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23780</id>
+          <title>CICLO INTEGRAL DEL AGUA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23780</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50047646</id>
+          <title>FERRETERIA-ARIES-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>103.57</amount>
+      <issued>2012-01-14T00:00:00Z</issued>
+      <payment>2012-05-22T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>12F087481</id>
+      <title>MANTENIMIENTO DE CONTENEDORES HIGIÉNICOS DEL CDM ACTUR - VERANO 2011</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A48148647</id>
+          <title>SERVICIOS CONTENEDORES HIGIEN. SANITAR. S.A. .</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>479.49</amount>
+      <issued>2012-01-04T00:00:00Z</issued>
+      <payment>2012-11-16T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>12F087502</id>
+      <title>MANTENIMIENTO DE CONTENEDORES HIGIÉNICOS DEL CDM ALBERTO MAESTRO - VERANO 2011</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A48148647</id>
+          <title>SERVICIOS CONTENEDORES HIGIEN. SANITAR. S.A. .</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>1265.6</amount>
+      <issued>2012-01-04T00:00:00Z</issued>
+      <payment>2012-11-16T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>135</id>
+      <title>hipoclorito para piscina adiego</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50024181</id>
+          <title>ADIEGO-HERMANOS-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>522.98</amount>
+      <issued>2012-01-13T00:00:00Z</issued>
+      <payment>2012-06-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>344</id>
+      <title>HIPOCLORITO PARA PISCINA ADIEGO HNOS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50024181</id>
+          <title>ADIEGO-HERMANOS-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>42.48</amount>
+      <issued>2012-01-20T00:00:00Z</issued>
+      <payment>2012-06-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>19</id>
+      <title>Bocadillos y bebidas para servicios de Voluntario P. Civil. Noelia</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>17722037P</id>
+          <title>FRANCISCO EXPOSITO POLO</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>641.52</amount>
+      <issued>2012-01-05T00:00:00Z</issued>
+      <payment>2012-06-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>00002</id>
+      <title>Reparaciones en cocina parque bomberos. Catalán S.A</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50049923</id>
+          <title>FRIGORIFICOS-CATALAN-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>759.92</amount>
+      <issued>2012-01-31T00:00:00Z</issued>
+      <payment>2012-06-12T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>00003</id>
+      <title>Material para hornos y vitrocerámica en parque nº 3 de bomberos. Catalán S.A</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50049923</id>
+          <title>FRIGORIFICOS-CATALAN-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>743.4</amount>
+      <issued>2012-01-03T00:00:00Z</issued>
+      <payment>2012-06-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>120002</id>
+      <title>REPARACION MANITOU MATILSA</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50375799</id>
+          <title>MATILSA-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>253.78</amount>
+      <issued>2012-01-04T00:00:00Z</issued>
+      <payment>2012-07-10T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>12-31</id>
+      <title>Adquisición Curso Cocina para usuarios Centro del Mayor por la Junta Vecinal Casetas</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>25103</id>
+          <title>JUNTA VECINAL CASETAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/25103</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B44118719</id>
+          <title>JUANCIBI-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>300</amount>
+      <issued>2012-01-23T00:00:00Z</issued>
+      <payment>2012-07-10T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>2120001</id>
+      <title>certificación depósitos de los leones (actualizado) diciembre-2011</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23780</id>
+          <title>CICLO INTEGRAL DEL AGUA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23780</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>U99255515</id>
+          <title>UTE-CONSTUCCIONES-MLN-CONAVINSA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>33116.46</amount>
+      <issued>2012-01-23T00:00:00Z</issued>
+      <payment>2012-07-17T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>333721</id>
+      <title>SUMINISTROS GAS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23960</id>
+          <title>EQUIPAMIENTOS INSTALACIONES</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23960</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A81948077</id>
+          <title>ENDESA-ENERGIA-SAU</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>3557.76</amount>
+      <issued>2012-01-24T00:00:00Z</issued>
+      <payment>2012-05-31T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>1207125</id>
+      <title>SUSCRIPCION ANUAL (FEBRERO 2013) CATALOGO-TARIFA MATERIALES ELECTRICOS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23960</id>
+          <title>EQUIPAMIENTOS INSTALACIONES</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23960</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50047596</id>
+          <title>INFORMEL-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>323.32</amount>
+      <issued>2012-02-01T00:00:00Z</issued>
+      <payment>2012-06-04T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>1</id>
+      <title>BOCADILLOS AGRUP.VOL.P.CIVIL RAAM</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B99228181</id>
+          <title>RAAM RESTARURACION S.L. .</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>403.38</amount>
+      <issued>2012-01-13T00:00:00Z</issued>
+      <payment>2012-06-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>12-1200274</id>
+      <title>Material de pintura. Pincolor</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50029545</id>
+          <title>PINCOLOR-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>92.19</amount>
+      <issued>2012-01-12T00:00:00Z</issued>
+      <payment>2012-06-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>F-26584</id>
+      <title>COPIAS DICIEMBRE</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>26017</id>
+          <title>SERVICIO DE REDES Y SISTEMAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/26017</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50833029</id>
+          <title>COREMOSA-ARAGON-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>140.3</amount>
+      <issued>2012-01-02T00:00:00Z</issued>
+      <payment>2012-05-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>42193</id>
+      <title>PEDIDO NORIA BELEN</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23940</id>
+          <title>SERVICIO DE TALLERES Y BRIGADAS DE ARQUITECTURA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23940</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50037274</id>
+          <title>TRANSMISIONES-ZARAGOZA-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>62.66</amount>
+      <issued>2012-01-02T00:00:00Z</issued>
+      <payment>2012-07-10T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>09666</id>
+      <title>REPARACION FAX C.C.GARRAPINILLOS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>61238</id>
+          <title>HOMOLOGACIONES</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/61238</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50833029</id>
+          <title>COREMOSA-ARAGON-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>96.76</amount>
+      <issued>2012-01-24T00:00:00Z</issued>
+      <payment>2012-05-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>09667</id>
+      <title>REPARACION FAX CENTRALITA EDIF. SEMINARIO</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>61238</id>
+          <title>HOMOLOGACIONES</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/61238</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50833029</id>
+          <title>COREMOSA-ARAGON-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>96.76</amount>
+      <issued>2012-01-24T00:00:00Z</issued>
+      <payment>2012-05-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>12-E001</id>
+      <title>MATERIALES BRIGADAS 6 PANELES ESC.</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23940</id>
+          <title>SERVICIO DE TALLERES Y BRIGADAS DE ARQUITECTURA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23940</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50054972</id>
+          <title>TECHOS-INDUSTRIAS-COTANO-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>11.26</amount>
+      <issued>2012-01-03T00:00:00Z</issued>
+      <payment>2012-05-11T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>48128ZIN1</id>
+      <title>SUMINISTRO DE HORMIGON</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23740</id>
+          <title>SERVICIO DE CONSERVACION DE INFRAESTRUCTURAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23740</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A21008305</id>
+          <title>HORMICEMEX-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>469.05</amount>
+      <issued>2012-01-20T00:00:00Z</issued>
+      <payment>2012-07-10T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>2120063</id>
+      <title>CERTIFICACION Nº 7 RENOVACION DE TUBERIAS DE ALCANTARILLADO C/ CANFRANC</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>26045</id>
+          <title>SERVICIO TÉCNICO DE INFRAESTRUCTURAS(Innov.Infr.)</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/26045</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50316595</id>
+          <title>CONST-MARIANO-LOPEZ-NAVARRO-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>83723.47</amount>
+      <issued>2012-02-13T00:00:00Z</issued>
+      <payment>2012-06-12T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>F12  4</id>
+      <title>MATERIALES BRIGADAS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23940</id>
+          <title>SERVICIO DE TALLERES Y BRIGADAS DE ARQUITECTURA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23940</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50700376</id>
+          <title>PINTURA-Y-FERRETERIA-CANDELAS-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>205.89</amount>
+      <issued>2012-01-05T00:00:00Z</issued>
+      <payment>2012-05-22T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>12011824</id>
+      <title>Servicio de apoyo a la implantacion de administracion electronica.</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>26018</id>
+          <title>SERVICIO DE INNOVACIÓN Y DESARROLLO DE INFORMÁTICA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/26018</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A28599033</id>
+          <title>INDRA-SISTEMAS-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>45780</amount>
+      <issued>2012-01-30T00:00:00Z</issued>
+      <payment>2012-10-19T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>95285533</id>
+      <title>ADQUISICION PRENDAS VESTUARIO PERSONAL MUNICIPAL</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>61238</id>
+          <title>SECCION DE APOYO OPERATIVO</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/61238</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A28017895</id>
+          <title>EL-CORTE-INGLES-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>125</amount>
+      <issued>2012-01-14T00:00:00Z</issued>
+      <payment>2012-06-01T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>301871</id>
+      <title>MATERIALES Y HERRAMIENTAS BRIGADAS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23940</id>
+          <title>SERVICIO DE TALLERES Y BRIGADAS DE ARQUITECTURA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23940</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50552819</id>
+          <title>MAINFER-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>44.27</amount>
+      <issued>2012-01-27T00:00:00Z</issued>
+      <payment>2012-06-13T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>09669</id>
+      <title>COPIAS ENERO</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>26017</id>
+          <title>SERVICIO DE REDES Y SISTEMAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/26017</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50833029</id>
+          <title>COREMOSA-ARAGON-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>14.9</amount>
+      <issued>2012-01-24T00:00:00Z</issued>
+      <payment>2012-05-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>120150260006</id>
+      <title>MANTENIMIENTO 1º TRIMESTRE 2012 ASCENSOR CL. MARIA ZAMBRANO 56</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23960</id>
+          <title>EQUIPAMIENTOS INSTALACIONES</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23960</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B60600897</id>
+          <title>MARVI-ASCENSORES</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>635.61</amount>
+      <issued>2012-01-01T00:00:00Z</issued>
+      <payment>2012-07-31T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>120150260008</id>
+      <title>MANTENIMIENTO 1º TRIMESTRE ASCENSOR CL. SANTA OROSIA 2</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23960</id>
+          <title>EQUIPAMIENTOS INSTALACIONES</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23960</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B60600897</id>
+          <title>MARVI-ASCENSORES</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>617.45</amount>
+      <issued>2012-01-01T00:00:00Z</issued>
+      <payment>2012-07-31T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>191395</id>
+      <title>SUSCRIPCION  PRENSA ANUAL VARIOS CENTROS CONVIVENCIA MAYORES</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>60257</id>
+          <title>CONCEJALÍA DEL MAYOR</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/60257</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B99288763</id>
+          <title>HERALDO-DE-ARAGON-EDITORA-SLU</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>2694</amount>
+      <issued>2012-01-01T00:00:00Z</issued>
+      <payment>2012-05-11T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>12F087483</id>
+      <title>MANTENIMIENTO DE CONTENEDORES HIGIÉNICOS DEL CDM DELICIAS - NOV.-DIC.11</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A48148647</id>
+          <title>SERVICIOS CONTENEDORES HIGIEN. SANITAR. S.A. .</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>27.09</amount>
+      <issued>2012-01-04T00:00:00Z</issued>
+      <payment>2012-11-16T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>12F087486</id>
+      <title>MANTENIMIENTO DE CONTENEDORES HIGIÉNICOS DEL CDM LA GRANJA - VERANO 2011</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A48148647</id>
+          <title>SERVICIOS CONTENEDORES HIGIEN. SANITAR. S.A. .</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>357.6</amount>
+      <issued>2012-01-04T00:00:00Z</issued>
+      <payment>2012-11-19T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>2627</id>
+      <title>MATERIAL ELECTRICIDAD ALVAREZ BELTRAN</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50049519</id>
+          <title>ALVAREZ-BELTRAN-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>15.23</amount>
+      <issued>2012-01-15T00:00:00Z</issued>
+      <payment>2012-06-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>R1200001</id>
+      <title>LLAVES EMERGENCIA ASCENSORES MONCAYO</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50104595</id>
+          <title>ASCENSORES-MONCAYO-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>401.79</amount>
+      <issued>2012-01-03T00:00:00Z</issued>
+      <payment>2012-05-10T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>3</id>
+      <title>Reparación  equipo de música</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>25113</id>
+          <title>JUNTA VECINAL SAN JUAN MOZARRIFAR</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/25113</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>17673124Q</id>
+          <title>AURELIO SICILIA MONGE</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>70.8</amount>
+      <issued>2012-01-10T00:00:00Z</issued>
+      <payment>2012-12-18T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>1-00155</id>
+      <title>PILAS BASE</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20516</id>
+          <title>SERVICIO CONTRA INCENDIOS, DE SALVAMENTO Y PROTECCIÓN CIVIL</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20516</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50187459</id>
+          <title>BATERIAS-ACUMULADORES-SEÑALIZACI</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>35.31</amount>
+      <issued>2012-01-20T00:00:00Z</issued>
+      <payment>2012-06-08T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>123330</id>
+      <title>MATERIAL DE FERRETERÍA PARA EL CDM CIUDAD JARDÍN</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50079771</id>
+          <title>GIMENO-SUMINISTROS-IND-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>42</amount>
+      <issued>2012-01-16T00:00:00Z</issued>
+      <payment>2012-06-25T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>FF-1200248</id>
+      <title>MATERIAL DE FONTANERÍA PARA EL CDM JOSÉ GARCÉS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50005933</id>
+          <title>PREZASA SOLUCIONES S.L.</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>126.92</amount>
+      <issued>2012-01-24T00:00:00Z</issued>
+      <payment>2012-06-25T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>100134</id>
+      <title>MATERIAL DE FERRETERÍA PARA EL CDM ALMOZARA</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50047646</id>
+          <title>FERRETERIA-ARIES-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>153.55</amount>
+      <issued>2012-01-14T00:00:00Z</issued>
+      <payment>2012-06-14T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>34.348</id>
+      <title>REPARAR CORTINA SEPARADORA DEL PABELLÓN DEL CDM ALMOZARA</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50373372</id>
+          <title>TOLDOS-LUCAS-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>269.63</amount>
+      <issued>2012-01-18T00:00:00Z</issued>
+      <payment>2012-05-30T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>100132</id>
+      <title>MATERIAL DE FERRETERÍA PARA EL CDM ACTUR</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50047646</id>
+          <title>FERRETERIA-ARIES-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>100.83</amount>
+      <issued>2012-01-14T00:00:00Z</issued>
+      <payment>2012-06-14T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>100365</id>
+      <title>MATERIAL ELÉCTRICO PARA EL CDM ACTUR</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>20231</id>
+          <title>SERVICIO DE INSTALACIONES DEPORTIVAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/20231</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50112655</id>
+          <title>DIELA LIGHTING, S.L.</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>429.84</amount>
+      <issued>2012-01-13T00:00:00Z</issued>
+      <payment>2012-06-14T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>A341</id>
+      <title>ADQUISICIÓN MATERIAL DE OFICINA.</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>61238</id>
+          <title>UNIDAD DE MANTENIMIENTO ORGANIZATIVO</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/61238</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50595560</id>
+          <title>MAOSA-OFICINAS-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>9191</amount>
+      <issued>2012-01-31T00:00:00Z</issued>
+      <payment>2012-06-13T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>123325</id>
+      <title>REPUESTO PARA TRONZADORA, BROCAS, ELECTRODOS, MANGUERA DE SOLDAR Y DISCOS DE CORTE.</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23740</id>
+          <title>SERVICIO DE CONSERVACION DE INFRAESTRUCTURAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23740</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50079771</id>
+          <title>GIMENO-SUMINISTROS-IND-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>1700.96</amount>
+      <issued>2012-01-16T00:00:00Z</issued>
+      <payment>2012-05-07T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>2200329</id>
+      <title>TOMA DEPRESION. ARANDELA METAL.</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23740</id>
+          <title>SERVICIO DE CONSERVACION DE INFRAESTRUCTURAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23740</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50092071</id>
+          <title>J-PINILLA-USON-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>237.99</amount>
+      <issued>2012-01-25T00:00:00Z</issued>
+      <payment>2012-05-07T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>10580</id>
+      <title>MATERIAL PARA ILUMINACION EN EL CENTRO OPERATIVO.</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23740</id>
+          <title>SERVICIO DE CONSERVACION DE INFRAESTRUCTURAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23740</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>A50049519</id>
+          <title>ALVAREZ-BELTRAN-SA</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>1110.96</amount>
+      <issued>2012-01-31T00:00:00Z</issued>
+      <payment>2012-06-04T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>5641</id>
+      <title>MATERIAL PARA VIAS PUBLICAS.</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23740</id>
+          <title>SERVICIO DE CONSERVACION DE INFRAESTRUCTURAS</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23740</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50923309</id>
+          <title>MOSAICOS-PRIETO-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>1576.57</amount>
+      <issued>2012-01-31T00:00:00Z</issued>
+      <payment>2012-05-07T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>F12 2</id>
+      <title>MATERIALES BRIGADAS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23940</id>
+          <title>SERVICIO DE TALLERES Y BRIGADAS DE ARQUITECTURA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23940</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50700376</id>
+          <title>PINTURA-Y-FERRETERIA-CANDELAS-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>1675.23</amount>
+      <issued>2012-01-05T00:00:00Z</issued>
+      <payment>2012-05-22T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>000006</id>
+      <title>MANTENIMIENTO INTEGRAL VEHICULOS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23940</id>
+          <title>SERVICIO DE TALLERES Y BRIGADAS DE ARQUITECTURA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23940</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50505346</id>
+          <title>TALLERES-CITRANZ-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>1122.85</amount>
+      <issued>2012-01-03T00:00:00Z</issued>
+      <payment>2012-06-04T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+    <factura>
+      <id>000029</id>
+      <title>MANTENIMIENTO INTEGRAL VEHICULOS</title>
+      <entidad>
+        <estructura-organizativa>
+          <id>23940</id>
+          <title>SERVICIO DE TALLERES Y BRIGADAS DE ARQUITECTURA</title>
+          <uri>http://www.zaragoza.es/api/recurso/sector-publico/organismo/23940</uri>
+        </estructura-organizativa>
+      </entidad>
+      <tercero>
+        <tercero>
+          <id>B50505346</id>
+          <title>TALLERES-CITRANZ-SL</title>
+        </tercero>
+      </tercero>
+      <facturaElectronica>N</facturaElectronica>
+      <amount>209.2</amount>
+      <issued>2012-01-17T00:00:00Z</issued>
+      <payment>2012-06-04T00:00:00Z</payment>
+      <status>Pagada</status>
+    </factura>
+  </result>
+</resultado>
